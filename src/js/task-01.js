@@ -28,7 +28,7 @@ list.forEach(item => {
     const itemListEl = item.querySelectorAll("li");
     const countItemList = itemListEl.length;
 
-    console.log("Category:", text);
+    console.log("Category:", text,);
     console.log("Elements:", countItemList);
 
 });
