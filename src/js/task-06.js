@@ -19,8 +19,5 @@ validationInput.addEventListener('blur', (event) => {
     } else {
         validationInput.classList.add('invalid')
         validationInput.classList.remove('valid')
-    }
-        
-    
-        
+    }       
 })
